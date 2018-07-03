@@ -6245,16 +6245,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="9-3">Moon Abyss</text>
 	
 	<!--SCREENS: PROLOGUE -->
-		<text name="PrologueOnceUpon">曾幾何時，蘑菇王國是一個非常平靜的地方。\n公主是這片遙遠國度所有居民的統治者。</text>
-		<text name="PrologueAmongToads">公主的身旁總會有奇諾比奧，一種保護她和城堡的小生物。\n它們無處不在，幫助公主當她有需要時。</text>
+		<text name="PrologueOnceUpon">蘑菇王國多年以來保持著和平與幸福，\n在碧姬公主的統治下。</text>
+		<text name="PrologueAmongToads">她的溫柔和親切關懷使每個奇諾比奧\n都感覺他們非常了解她。\n總是近在咫尺，他們從不猶豫地\n向她表達自己的感情。</text>
 		<text name="PrologueLewdToads">有時...由於她的青春期衝動，她最後做的不僅僅是愛撫奇諾比奧...</text>
 		<text name="PrologueCallingToads">接著公主在早餐前，午餐前，下午時和睡前招呼奇諾比奧...\n直到一個特殊的周末...</text>
 		<text name="ScreenTrain_MarioAfter">馬里奧在完成他最近的任務之後，終於打電話給碧姬公主，約在火車上吃飯。</text>
 		<text name="PeachInvites">公主邀請馬里奧來到她的城堡...\n她終於要有了\n初體驗...</text>
 		<text name="ButSomethingBad">但有些不好的事情\n總是發生....</text>
-		<text name="PeachInvitesAgain">公主邀請馬里奧來到她的城堡\n再一次...</text>
-		<text name="KamekCurses">...然而卡美克用骯髒的費洛蒙詛咒了居民和物體...</text>
 		<text name="AirshipsInvade">飛艇入侵了\n蘑菇王國！</text>
+		<text name="KamekCurses">...且卡美克用骯髒的費洛蒙，詛咒了居民和物體...</text>
+		<text name="PeachInvitesAgain">公主邀請馬里奧來到她的城堡\n再一次...</text>
 		
 		<text name="DuringTheNight">在當晚...</text>
 		<text name="PrincessIsAsleep">公主睡著了...馬里奧離開了房間...</text>
