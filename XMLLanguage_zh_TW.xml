@@ -23,12 +23,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			
 	<!--TOADS-->
 			<scenes scene="toad1"> 
-				<p i="1">Nobody is seeing\nthis. They ARE so tasty, hmmm...</p>
-				<p i="2">Mwa! Mm! Oh,\nit\'s tasting even better now!</p>
-				<p i="3">Oh no! He got\nhis cream all in my hair! But these balls taste too good...</p>
+				<p i="1">沒有人看到\n這一點。它們超好吃，嗯...</p>
+				<p i="2">恩嘛！嗯！ 哦，\n它現在嘗起來更棒了！</p>
+				<p i="3">哦，不！ 他把\n他的奶油弄得我滿頭髮都是！但這些球太好吃了...</p>
 			</scenes>
 			<scenes scene="toad2">
-				<p i="1">He\'s looking\nat me...so tender...</p>
+				<p i="1">他在看著\n我...真溫柔...</p>
 				<p i="1a">Are you...\ngoing to do this with me?</p>
 				<p i="2">I want to\ntouch him...</p>
 				<p i="2a">Here I go,\nmy little thing...</p>
@@ -6245,21 +6245,21 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="9-3">Moon Abyss</text>
 	
 	<!--SCREENS: PROLOGUE -->
-		<text name="PrologueOnceUpon">Once upon a time, Mushroom Kingdom was a very calm place.\n The princess was the ruler of all inhabitants of this distant land.</text>
-		<text name="PrologueAmongToads">The princess was always among toads, little beings that protected her and the Castle.\nThey are everywhere, helping the princess everytime she needs a hand.</text>
-		<text name="PrologueLewdToads">Sometimes...Due to her pubescent urges, she ended up doing more than caressing the toads...</text>
-		<text name="PrologueCallingToads">The princess was then calling the toads before breakfast, before lunch, during the afternoon and before bed...\nUntil a special weekend arrived...</text>
-		<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess Peach for a dinner in the Train.</text>
-		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
-		<text name="ButSomethingBad">But something bad is about\nto happen....</text>
-		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>
-		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHEROMONES...</text>
-		<text name="AirshipsInvade">AIRSHIPS INVADE\nMUSHROOM KINGDOM!</text>
+		<text name="PrologueOnceUpon">曾幾何時，蘑菇王國是一個非常平靜的地方。\n公主是這片遙遠國度所有居民的統治者。</text>
+		<text name="PrologueAmongToads">公主的身旁總會有奇諾比奧，一種保護她和城堡的小生物。\n它們無處不在，幫助公主當她有需要時。</text>
+		<text name="PrologueLewdToads">有時...由於她的青春期衝動，她最後做的不僅僅是愛撫奇諾比奧...</text>
+		<text name="PrologueCallingToads">接著公主在早餐前，午餐前，下午時和睡前招呼奇諾比奧...\n直到一個特殊的周末...</text>
+		<text name="ScreenTrain_MarioAfter">馬里奧在完成他最近的任務之後，終於打電話給碧姬公主，約在火車上吃飯。</text>
+		<text name="PeachInvites">公主邀請馬里奧來到她的城堡...\n她終於要有了\n初體驗...</text>
+		<text name="ButSomethingBad">但有些不好的事情\n總是發生....</text>
+		<text name="PeachInvitesAgain">公主邀請馬里奧來到她的城堡\n再一次...</text>
+		<text name="KamekCurses">...然而卡美克用骯髒的費洛蒙詛咒了居民和物體...</text>
+		<text name="AirshipsInvade">飛艇入侵了\n蘑菇王國！</text>
 		
-		<text name="DuringTheNight">DURING THE NIGHT...</text>
-		<text name="PrincessIsAsleep">THE PRINCESS IS ASLEEP...MARIO LEFT THE ROOM...</text>
-		<text name="TheNextDay">THE NEXT DAY...</text>
-		<text name="PrincessJustWakingUp">THE PRINCESS IS JUST WAKING UP...</text>
+		<text name="DuringTheNight">在當晚...</text>
+		<text name="PrincessIsAsleep">公主睡著了...馬里奧離開了房間...</text>
+		<text name="TheNextDay">第二天...</text>
+		<text name="PrincessJustWakingUp">公主才剛剛醒來...</text>
 
 	<!--SCREEN:PREGNANT-->
 		<text name="YourePregnant">You\'re PREGNANT!</text>
